@@ -1,9 +1,10 @@
- {
+{
   "serverstatus":"true",
   "noticemode":"true",
   "dataclearmode":"false",
   "servermeassage":"Wait We Are Working On a new Update !",
   "opentime":" Just wait few more times 😊",
   "libs":"https://kmasotra.x10.mx/public/file/kmasotra.zip",
+  "notice_title":"",
   "notice_body":""
 }
